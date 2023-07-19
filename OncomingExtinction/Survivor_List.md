@@ -1,0 +1,14 @@
+# Survivor List</br>
+- Void Profligate (+ Nemesis)</br>
+- Drone</br>
+- Dissonance</br>
+- Pathogen</br>
+- Replicator</br>
+- Hypothermic</br>
+- Kismet</br>
+- Follower</br>
+- Heavy</br>
+- Vampiric</br>
+- Steamroller</br>
+- Messenger</br>
+- Forgotten? (maybe?)</br>
