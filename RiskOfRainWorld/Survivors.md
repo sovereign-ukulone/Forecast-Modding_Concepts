@@ -4,4 +4,5 @@
 - Saint</br>
 - Hunter</br>
 - Inv/Enot</br>
-- Spearmaster
+- Spearmaster</br>
+- Gourmand
