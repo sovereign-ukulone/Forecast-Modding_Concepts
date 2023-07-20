@@ -1,3 +1,2 @@
 # Forecast Modding (Concepts)
-erm</br>
-where are all the mods smh
+no actual mods yet -- this is a github for storing concepts
