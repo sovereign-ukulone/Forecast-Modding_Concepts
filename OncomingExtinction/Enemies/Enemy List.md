@@ -1,13 +1,18 @@
 # Enemy List
+## Misc
 - Ouroboros Wyrm
 - Void Worm
-- Evolved Lemurian
 - Abscinder
-- something brass related
 
-## Beetles (thanks Stonks)
+## Beetle Family
 - Beetle Thrower
 - Beetle Cleric
 - Beetle Carpenter
 - Beetle Overlord
 - Beetle King
+
+## Lemurian Family
+- Evolved Lemurian (if SS2 doesn't do it first)
+
+## Brass Family
+- (unnamed)
