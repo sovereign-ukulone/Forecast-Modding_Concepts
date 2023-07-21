@@ -1,6 +1,6 @@
 ## Survivor Changes
 ### Alt Merc</br>
-New Passive: Reflection</br>
+New Passive: Reflexes</br>
 Timing your secondary ability properly allows you to parry all incoming projectiles.
 
 ## Lore Changes
