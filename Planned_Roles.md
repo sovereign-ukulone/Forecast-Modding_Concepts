@@ -10,6 +10,7 @@
 - sh.ed
 - zynthesizer
 - anubissupernova
+- shitwave
 
 ## Lore
 - flint_andsteel
