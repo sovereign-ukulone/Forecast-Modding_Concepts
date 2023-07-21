@@ -1,9 +1,9 @@
 FIELDTECH Audio Translator (v2.5.10b)</br>
-# Awaiting input... done.</br>
-# Processing audio for words... done.</br>
-# Transcribing data... done.</br>
-# Translating audio... done.</br>
-# Replicating vocal patterns... done.</br>
+\# Awaiting input... done.</br>
+\# Processing audio for words... done.</br>
+\# Transcribing data... done.</br>
+\# Translating audio... done.</br>
+\# Replicating vocal patterns... done.</br>
 Complete: outputting results.</br>
 </br>
 \[BEGIN AUDIO PLAYBACK]</br>
