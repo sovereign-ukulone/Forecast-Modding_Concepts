@@ -1,3 +1,3 @@
 # Enemy List
-- Sky Worm
+- Ouroboros Wyrm
 - Stonks' beetle concepts (list them later)
