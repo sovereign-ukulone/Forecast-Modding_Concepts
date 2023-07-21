@@ -1,3 +1,9 @@
+# Void Profligate
+## All-Consuming Power
+**_…and so it left, incomplete and unfulfilled._** </br>
+**_…and so it vanished, bitter hatred carrying it beyond._** </br>
+</br>
+_Drunk off its own power, the Void Profligate works alongside other survivors for the sole purpose of furthering its own goals. Its unbridled hatred causes it to fight far more fiercely against the Void, and it yearns to steal the power of all entities it’s aware of._
 # Abilities
 
 ## Defaults
@@ -7,7 +13,7 @@ The Void Profligate grows increasingly powerful with each void item it harnesses
 ### Primary - Sanguine Slash
 <b>Bleed.</b> Swing at enemies, dealing 160% damage and inflicting bleed while above 75% health. Bleed stacks with items that also inflict it. <i>(Proc coeff: 1)</i>
 
-### Secondary - Tainting Bolt
+### Secondary - Tainted Bolt
 <b>Blighting.</b> Fire out sharp projectiles from the Profligate's chest with a maximum charge of 8, each dealing 160% damage. Cooldown of 3 seconds. All recharge at the same time. <i>(Proc coeff: 0.8)</i>
 
 ### Utility - Swift Root
