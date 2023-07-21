@@ -1,8 +1,7 @@
 # (Name)
 ## (Umbra Title)
-### _…(left message)_
-### _…(vanished message)_
-<br>
+**_…(left message)_** </br>
+**_…(vanished message)_** </br>
 _(Description)_
 
 ## Stats</br>
