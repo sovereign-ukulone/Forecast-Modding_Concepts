@@ -1,4 +1,5 @@
 - Drone (Boss)
+- Nemesis Profligate (Boss)
 - The Husk
 - Singularity
 - Yanlis
