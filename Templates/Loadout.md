@@ -1,4 +1,10 @@
-# (survivor name)</br>
+# (Name)
+## (Umbra Title)
+### _…(left message))
+### _…(vanished message)_
+
+_(Description)_
+
 ## Stats</br>
 Health: (x) (+(x) per level)</br>
 Regen: (x) (+(x) per level)</br>
