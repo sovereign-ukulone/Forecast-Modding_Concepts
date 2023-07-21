@@ -1,3 +1,10 @@
 # Enemy List
 - Ouroboros Wyrm
-- Stonks' beetle concepts (list them later)
+- Void Worm
+
+## Beetles (thanks Stonks)
+- Beetle Thrower
+- Beetle Cleric
+- Beetle Carpenter
+- Beetle Overlord
+- Beetle King
