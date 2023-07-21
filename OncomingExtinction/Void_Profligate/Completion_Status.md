@@ -1,6 +1,6 @@
 - Sketch concept (complete)
 - Logbook (complete)
-- Loadout (semi-complete?)
+- Loadout (questionably complete)
 - Nemesis (incomplete)
 - Colored concept art (not started)
 - Turnaround reference (not started)
