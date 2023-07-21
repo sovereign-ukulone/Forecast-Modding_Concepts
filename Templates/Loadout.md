@@ -1,6 +1,6 @@
 # (Name)
 ## (Umbra Title)
-### _…(left message))
+### _…(left message)_
 ### _…(vanished message)_
 
 _(Description)_
