@@ -1,15 +1,16 @@
-# Survivor List</br>
-- Void Profligate (+ Nemesis)</br>
-- Drone</br>
-- Dissonance</br>
-- Pathogen</br>
-- Replicator</br>
-- Hypothermic</br>
-- Kismet</br>
-- Follower</br>
-- Heavy</br>
-- Vampiric</br>
-- Steamroller</br>
-- Messenger</br>
-- Forgotten? (maybe?)</br>
-- Elder
+# Survivor List
+- Void Profligate | All-Consuming Power
+- Nemesis Profligate | Hidden Truth
+- Drone | Slave to the Sun
+- Dissonance | A Lonely Song
+- Pathogen | Death Doctor
+- Replicator | Unending Army
+- Hypothermic | Frozen Soul
+- Kismet | The Void's Overseer
+- Follower | Malachite Subordinate
+- Heavy | Left Behind
+- Vampiric | Shameful Bloodlust
+- Steamroller | Devastating Juggernaut
+- Messenger | Withered Hands of the Holy
+- Forgotten? (maybe?)
+- Elder | Forever Forgotten
