@@ -12,5 +12,5 @@
 - Vampiric | Shameful Bloodlust
 - Steamroller | Devastating Juggernaut
 - Messenger | Withered Hands of the Holy
-- Forgotten? (maybe?)
+- Forgotten | Finally Remembered
 - Elder | Forever Forgotten
