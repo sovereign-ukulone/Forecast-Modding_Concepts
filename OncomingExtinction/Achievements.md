@@ -40,5 +40,5 @@ Prove your masochism as a Risk of Rain 2 player.
 - Unlocks Ouranos
 
 ## Crimson Ritual
-Lose at least 90% of your maximum health from three blood shrines in a single run. 
+Lose 93% of your maximum health in a single activation from three separate blood shrines in a single run. 
 - Unlocks Vampiric
