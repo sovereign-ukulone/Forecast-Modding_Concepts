@@ -9,7 +9,8 @@ Complete the Void Pod event in the Voidtouched Wasteland.
 - Unlocks Profligate 
 
 ## Song of the Moon
-Execute the King of Nothing without completing any pillars. (Subject to change)
+Free the banished brother.
+- Obtained via the ending where you free Mithrix with Ouranos
 - Unlocks Dissonance
 
 ## Free the Void
