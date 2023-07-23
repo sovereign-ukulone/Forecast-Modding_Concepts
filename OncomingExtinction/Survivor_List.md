@@ -14,3 +14,4 @@
 - Messenger | Withered Hands of the Holy
 - Forgotten | Finally Remembered
 - Elder | Forever Forgotten
+- Zealot | Shrouded Acolyte
