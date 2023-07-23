@@ -1,5 +1,6 @@
-- Drone (Boss)
+- Drone | Slave to the Sun (Boss)
 - Nemesis Profligate (Boss)
 - The Husk
 - Singularity
 - Yanlis
+- Ouranos | The Timeless (Boss)
