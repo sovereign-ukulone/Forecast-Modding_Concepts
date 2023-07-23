@@ -18,6 +18,6 @@ The end is coming fast.</br>
 </br>
 Are you still out there, Mithrix? Do you still hate me for my wrongdoings?</br>
 </br>
-...
+...</br>
 </br>
 …because I hate myself.
