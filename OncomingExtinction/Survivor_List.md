@@ -15,3 +15,4 @@
 - Forgotten | Finally Remembered
 - Elder | Forever Forgotten
 - Zealot | Shrouded Acolyte
+- Ouranos | The Timeless (Secret unlock)
