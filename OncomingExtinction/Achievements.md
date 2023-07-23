@@ -38,3 +38,7 @@ Hold N’kuhana’s Opinion, Yanlis’ Seal, and Ceremonial Daggers in a single 
 Prove your masochism as a Risk of Rain 2 player.
 - Obtained via killing Ouranos on Armageddon difficulty as every Oncoming Extinction survivor
 - Unlocks Ouranos
+
+## Crimson Ritual
+Lose at least 90% of your maximum health from three blood shrines in a single run. 
+- Unlocks Vampiric
