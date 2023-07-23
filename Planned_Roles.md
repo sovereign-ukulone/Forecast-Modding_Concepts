@@ -11,6 +11,7 @@
 - zynthesizer
 - anubissupernova
 - shitwave
+- nightlorde (maybe)
 
 ## Lore
 - flint_andsteel
