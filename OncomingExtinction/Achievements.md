@@ -36,7 +36,7 @@ Hold N’kuhana’s Opinion, Yanlis’ Seal, and Ceremonial Daggers in a single 
 
 ## "What the fuck is wrong with you?"
 Prove your masochism as a Risk of Rain 2 player.
-- Obtained via killing Ouranos on Armageddon difficulty as every Oncoming Extinction survivor
+- Obtained via killing Ouranos on Armageddon (or Calamity) difficulty as every Oncoming Extinction survivor
 - Unlocks Ouranos
 
 ## Crimson Ritual
