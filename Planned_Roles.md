@@ -19,6 +19,7 @@
 - waterinhalationtrainee
 - shitwave
 - anubissupernova
+- nightlorde
 
 ## External Materials
 - pelontrix
