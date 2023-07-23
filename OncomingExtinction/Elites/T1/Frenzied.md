@@ -1,5 +1,5 @@
 # Erratic Pulse
-</br>
+
 _Note: Parents are unable to spawn with the Frenzied aspect because they’re already just like the ROR1 Frenzied Parents._
 
 ## Abilities
