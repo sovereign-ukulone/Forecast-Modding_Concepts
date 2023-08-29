@@ -12,7 +12,7 @@
 - Vampiric | Shameful Bloodlust
 - Steamroller | Devastating Juggernaut
 - Messenger | Withered Hands of the Holy
-- Forgotten | Finally Remembered
+- Forgotten | Undeserved Rememberance
 - Elder | Forever Forgotten
 - Zealot | Shrouded Acolyte
 - Ouranos | The Timeless (Secret unlock)
