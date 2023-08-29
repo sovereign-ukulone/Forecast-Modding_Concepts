@@ -2,6 +2,6 @@
 - Adytum | Exiled Gunslinger</br>
 - Jonnus | Volatile Fear Response</br>
 - Judas | Calm Before the Storm</br>
-- Lazarus
-- Dhumma
+- Lazarus | Dead Long Ago
+- Dhumma | Speed Is War
 - Arias
